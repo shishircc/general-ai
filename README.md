@@ -13,4 +13,4 @@ Present ML approaches are purely statistical/mathematical in nature and create o
 
 ## Experiments
 
-1. Extracting Spatial Concepts  
+1. Extracting Spatial Concepts - Much of vision ML field is filled with prediction based on image vector, using for example CNN model. This whole approach is neglecting a more basic problem of extracting concept from image, or segmenting the image into different conceptual areas based on spatial, depth and boundaries information. This experiment would try to extract these concepts out of image. The concepts would have no name early on but could later trie to a NLP or memory model concept.       
