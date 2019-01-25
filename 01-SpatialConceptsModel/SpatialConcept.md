@@ -13,8 +13,9 @@ The model should also not be supervised learning. It should be able to use above
 
 The models should be able to answer basic questions such as 
 1. What is the color of thing at pixel x,y ? 
-2. Which "thing(s)" does it belong to, which should give list of things that it is connected to hierarchically ? 
-3. What's the approximate distance of this pixel from camera ?
+1. Which "thing(s)" does it belong to, which should give list of things that it is connected to hierarchically ? 
+1. What's the approximate distance of this pixel from camera ?
+1. What are all the things in the image (unnamed and hierarchial, based on continuity, connectedness, color, depth similarity)?
 
 ## Basic concept of spatial continuity in horizontal, vertical or any other plane 
 
