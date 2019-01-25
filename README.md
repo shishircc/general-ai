@@ -17,4 +17,4 @@ Present ML approaches are purely statistical/mathematical in nature and create o
 
 2. Combined Vision, NLP Model and Memory Model - Vision by itself is much less useful without language and language by itself is much less useful without vision. Why do present models specialize in either vision or lanaguage but not both. Morever, Memory is important to tie these together. This experiment would try to train a Vision model (which can extract spatial concepts automatically), with a language and memory model           
 
-![Combined Model](/CombinedModel.png)
+![Combined Model](/images/combined-model.png)
