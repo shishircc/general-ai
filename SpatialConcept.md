@@ -11,7 +11,7 @@ The model should also not be supervised learning. It should be able to use above
 
 ## Acceptance Criteria 
 
-The models should be able to answer basic questions then like 
+The models should be able to answer basic questions such as 
 1. What is the color of thing at pixel x,y ? 
 2. Which "thing(s)" does it belong to, which should give list of things that it is connected to hierarchically ? 
 3. What's the approximate distance of this pixel from camera ?
