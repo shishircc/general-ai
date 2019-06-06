@@ -8,6 +8,8 @@ In general this repo is about effort which does not assume that everything has t
 
 Also, a lot of ML Is based on only data driven knowledge, but logic is to large extend ignored. This repo has belief that logic and reasoning by analogy and generalization is important. 
 
+How all these concepts be introduced into AI is not known, but we know these are needed for general AI. Maybe it would be based on deep learning, maybe based on hard coded programming, maybe something else. 
+
 ## Weakness of present approaches
 
 Present ML approaches are purely statistical/mathematical in nature and create one model per task. This works for narrow intelligence but breaking out of narrow zone requires more than this approach. Below are some areas that need improvements
