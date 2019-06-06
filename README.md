@@ -8,7 +8,7 @@ In general this repo is about effort which does not assume that everything has t
 
 Also, a lot of ML Is based on only data driven knowledge, but logic is to large extend ignored. This repo has belief that logic and reasoning by analogy and generalization is important. 
 
-How all these concepts be introduced into AI is not known, but we know these are needed for general AI. Maybe it would be based on deep learning, maybe based on hard coded programming, maybe something else. 
+How all these concepts be introduced into AI is not known, but we know these are needed for general AI. Maybe it would be based on deep learning, maybe based on hard coded programming, maybe something else. As a github repo, we want to be able to do lot of experiments cheaply and fast. 
 
 ## Weakness of present approaches
 
